@@ -1,4 +1,4 @@
-# Projects
+# Projekte
 
 Diese Liste gibt einen Überblick über aktuelle Open Source-Projekte, die vom Land Berlin oder mit dessen Unterstützung entwickelt wurden. Wir arbeiten daran, die Liste kontinuierlich zu erweitern. 
 

@@ -1,3 +1,3 @@
 # Dokumente
 
-In this section we want to collect every bit of knowledge you need to contribute to Berlin's Open Source projects. Whether you work with us or not.
+Hier finden Sie Dokumente und Informationen rund um unsere Projekte, Open Source und die Berliner IT-Landschaft. 

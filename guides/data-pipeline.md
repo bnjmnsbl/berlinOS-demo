@@ -46,7 +46,7 @@ The workflow consist of 4 steps:
 
 ### 1. Getting the data
 
-Much of the data is still recieved by mail in the form of database dumps as tabular or spatial file. That creates a dependancy of the availability of person on the sending and recieving end regarding adding new data to the pipeline.
+Much of the data is still received by mail in the form of database dumps as tabular or spatial file. That creates a dependancy of the availability of person on the sending and recieving end regarding adding new data to the pipeline.
 
 To solve this an make automation possible, clients are asked to:
 
@@ -69,7 +69,7 @@ To solve this an make automation possible, clients are asked to:
 Optionally:
 Send the ip ranges of our organisation to the application maintainers.
 
-**Responsibility of the data analist/engineer:**
+**Responsibility of the data analyst/engineer:**
 
 1. Store the token/login in the password manager
 2. Store the userlogin/password in the password manager of the project or team

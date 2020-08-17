@@ -100,7 +100,7 @@ main>article {
 }
 
 main>article.markdown-body {
-  padding: 2em 0 4em;
+  padding: 2em 2em 4em;
 }
 
 main>aside, main>ul.table-of-contents {

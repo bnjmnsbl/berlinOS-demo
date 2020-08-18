@@ -1,6 +1,6 @@
 ---
 abstract: Alle Berliner Stadtbäume in einer Anwendung
-reusability: 3
+reusability: 4
 ---
 
 # Gieß den Kiez

@@ -1,14 +1,18 @@
 # Berlin Open Source
 
-A showcase of Berlin's Open Source work, a comprehensive guide on how to contribute to our projects and our vision how we believe Open Source software should be built.
+A prototype to showcase Open Source Software that is built, maintained and/or funded by Berlin state governmental agencies.
+
+We built this prototype in order to make a case for the use of FOSS (Free and Open Source Software) in government and to convince the related stakeholders that there is value in making your Open Source infrastructure more visible and accesible.  
+
+This site is based on a fork of the [Amsterdam Open Source Repository](https://github.com/Amsterdam/amsterdam.github.io), because not reinventing the wheel is kind of the point of Open Source. 
 
 ---
 
 ## Adding content
 
-Feel free to make pull requests, we'll review and merge them as soon as we can. Feel free to edit the MarkDown files, if you are unfamilliar with this, the [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/) guide is pretty good
+Feel free to make pull requests, we'll review and merge them as soon as we can. Feel free to edit the MarkDown files, if you are unfamilliar with this, the [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/) guide is pretty good.
 
-Be sure to read the [CONTRIBUTING.md](CONTRIBUTING.md) for more information on contributing.
+For some German language info on how to contribute, be sure to read the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Adding a Guide
 

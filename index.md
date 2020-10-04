@@ -1,22 +1,20 @@
 # Open Source im Land Berlin
 
-Das Land Berlin setzt zukünftig stärker auf [Open Source-Software](https://de.wikipedia.org/wiki/Open_Source). Diese Seite bietet einen Überblick über laufende Open Source-Projeke, die im Land eingesetzt oder aktiv weiterentwickelt werden. Mit diesem Angebot möchten wir die Digital-Community in Berlin und darüber hinaus einladen, kollaborativ an der Entwicklung innovativer Softwarelösungen für unsere Stadt zu arbeiten. 
+Diese Seite bietet einen Überblick über [Open Source-Projekte](https://de.wikipedia.org/wiki/Open_Source), die im Land Berlin eingesetzt oder aktiv weiterentwickelt werden. Mit diesem Angebot möchten wir die Digital-Community in Berlin und darüber hinaus einladen, kollaborativ an der Entwicklung innovativer Softwarelösungen für unsere Stadt zu arbeiten. 
 
 Erste erfolgreiche Open Source-Anwendungen, die vom Land Berlin gefördert und mit dessen Beteiligung umgesetzt werden sind etwa die [Berliner Badestellen](https://www.badegewaesser-berlin.de/) oder [Gieß den Kiez](https://www.gießdenkiez.de). 
 
 Beim [CityLAB Berlin](www.citylab-berlin.org) und der [Technologiestiftung Berlin](www.technologiestiftung-berlin.de) finden Open Source-Entwickler*innen zahlreiche Projekte, bei denen eine aktive Beteiligung möglich und erwünscht ist. Das Berliner [IT-Dienstleistungszentrum (ITDZ)](https://github.com/itdz-berlin) bietet zudem in seinem [GitHub-Account](https://github.com/itdz-berlin) ein Demo-Fachverfahren an. 
 
 
-
-
-## Warum wir als öffentliche Verwaltung Open Source unterstützen
+## Warum Open Source Software?
 
 Die Nutzung und Entwicklung von Open Source Software bietet für öffentliche Verwaltungen zahlreiche Vorteile: 
 
 ### Kollaboration
-Städte in aller Welt sehen sich mit globalen Herausforderungen – Klimawandel, Wachstum, Verkehrswende, soziale Ungleichheit – konfrontiert, die gemeinsame Antworten erfordern. Statt in jeder Stadt das Rad neu zu erfinden, sollten wir Kräfte bündeln und Wissen teilen. 
+Städte und Kommunen in aller Welt sehen sich mit globalen Herausforderungen – Klimawandel, Wachstum, Verkehrswende, soziale Ungleichheit – konfrontiert, die gemeinsame Antworten erfordern. Statt jedes Mal das Rad neu zu erfinden, sollten wir Kräfte bündeln und Wissen teilen. 
 
-Mit der Digitalisierung entstehen auch für Städte völlig neue Möglichkeiten der Zusammenarbeit. Mit der Entwicklung und Unterstützung von Open Source-Projekten trägt Berlin einen Teil zur Entstehung eines globalen Software-Ökosystems für den öffentlichen Sektor bei.    
+Mit der Digitalisierung entstehen auch für Verwaltungen völlig neue Möglichkeiten der Zusammenarbeit. Mit der Entwicklung und Unterstützung von Open Source-Projekten trägt Berlin einen Teil zur Entstehung eines globalen Software-Ökosystems für den öffentlichen Sektor bei.    
 
 ### Sicherheit
 
@@ -28,26 +26,19 @@ Durch den Einsatz von Open Source-Software ist transparent einsehbar, wie Daten 
 
 ### Wartung und Weiterentwicklung
 
-Using and developing Open Source means working with a diverse community in different circumstances to review, test and maintain the code at the core of our services.
+Bei der Entwicklung und Wartung bieten Open Source-Projekte viele Vorteile. Nicht nur verringert sich die Abhängigkeit von einzelnen Dienstleistern, sondern der Source Code bleibt grundsätzlich offen für Reviews, Tests und Weiterentwicklungen durch eine diverse Communit. 
 
 ### Agilität
 
-Using and developing Open Source software enables us to have flexible control over our processes and full access to our data. The flexibility and access enable a more flexible process in which we can develop new solutions quicker and with higher effectivity.
-
-Open Source enables us to work with a wider variety of suppliers and freelance developers, meaning we can eliminate vendor lock-in as well as work with better, smaller or more specialised suppliers.
+Die Nutzung von Open Source-Modellen erleichtert zu jeder Projektphase transparente Einsicht in den aktuellen Entwicklungsstand und ermöglicht so eine bessere Kontrolle über den Gesamtprozess. Fehler können frühzeitiger erkannt und behoben, Reibungsverluste minimiert werden. 
 
 ### Wiederverwendung
 
-Developing Open Source projects means developing for reuse. Open Source projects are scalable and interoperable.
+Open Source bedeutet, dass Projekte und deren Komponenten mit wenig Aufwand wiederverwendet werden können. Open Source-Projekte sind damit tendenziell besser skalierbar.
 
-Developing in the open also allows for other opinions – inside of our organisation and outside – to help adjust the direction of a product to maximise its usefulness to the community it serves.
+Durch die wiederholte Verwendung interoperabler Komponenten entsteht mit der Zeit ein Open Source-Ökosystem, das mit zunehmendem Reifegrad eine immer schnellere und kostengünstigere Entwicklung von Lösungen ermöglicht.  
 
-If one of our projects is successful it can – relatively easily – be replicated or changed to be implemented in a different circumstance.
-
-If one of our projects or parts of one of our projects is reliant on another project we want to replace, the principles of reusability make sure we can easily switch.
 
 ### Attraktivität 
 
-Many developers prefer developing an Open Source project over a closed source project. Using, contributing to and developing Open Source projects means working at the City of Amsterdam is a lot more attractive for those brilliant, civic-minded, career developers out there.
-
-Open Source-Software, die vom Land Berlin entwickelt, gefördert oder in Auftrag gegeben wird, wird aktuell unter verschiedenen freien Lizenzen angeboten, die eine freie Vervielfältigung, Weitergabe und Weiterentwicklung des Quellcodes ermöglichen. 
+Für viele Entwickler*innen bedeutet es einen zusätzlichen Anreiz, an Open Source-Projekten arbeiten zu können. Die Nutzung von Open Source-Software in der öffentlichen Verwaltung stärkt zugleich die Rolle der Verwaltung als attraktivem IT-Arbeitgeber und kann dabei helfen, Tech-Talente für gemeinwohlorientierte Arbeit zu gewinnen. 

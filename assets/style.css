@@ -1,12 +1,11 @@
 /**
- * This CSS file provides basic styling inspired by amsterdam.nl and the 'patternlab'
+ * This CSS file provides basic styling
  */
 
  html, body {
   margin: 0;
   padding: 0;
-  /* The gemeente Amsterdam font stack, however since we don't have webfonts for this yet windows will display Arial */
-  font-family: Avenir,Arial,sans-serif;
+  font-family: Arial,sans-serif;
   font-weight: 500;
   background-color: #e5e5e5;
   color: #434343;
@@ -44,7 +43,6 @@ body>main, body>header, body>nav>ul {
 /* The main navigation */
 body>nav {
   width: 100vw;
-  /* A grey background to mimic amsterdam.nl */
   background-color: #fafafa;
 }
 
@@ -215,7 +213,6 @@ body>footer, body>footer h3, body>footer a:link, body>footer a:visited {
   min-width: inherit;
 }
 
-/* Emulate the little amsterdam.nl chevron */
 body>footer a:link:before, body>footer a:visited:before, 
 aside li>a:link:before, aside li>a:visited:before {
   font-family: Arial,sans-serif;  

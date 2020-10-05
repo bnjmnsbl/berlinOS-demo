@@ -4,7 +4,7 @@ explains: The style guide to the way we code Python
 
 # How we code Python
 
-A lot of the software we make at City of Amsterdam is written in Python.
+A lot of the software we make is written in Python.
 
 In general we try to follow the common community guidelines,
 including [PEP-8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) 

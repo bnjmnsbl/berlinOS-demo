@@ -1,8 +1,10 @@
+Live at [https://bnjmnsbl.github.io/berlinOS-demo/](https://bnjmnsbl.github.io/berlinOS-demo/)
+
 # Berlin Open Source
 
 A prototype to showcase Open Source Software that is built, maintained and/or funded by Berlin state governmental agencies.
 
-We built this prototype in order to make a case for the use of FOSS (Free and Open Source Software) in government and to convince the related stakeholders that there is value in making your Open Source infrastructure more visible and accesible.  
+We built this prototype in order to make a case for the use of FOSS (Free and Open Source Software) in government and to convince the related stakeholders that there is value in making your Open Source infrastructure more visible and accessible.  
 
 This site is based on a fork of the [Amsterdam Open Source Repository](https://github.com/Amsterdam/amsterdam.github.io), because not reinventing the wheel is kind of the point of Open Source. 
 
